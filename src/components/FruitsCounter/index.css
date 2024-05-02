@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.con {
+  height: 100vh;
+  background-color: #ffd569;
+  padding: 20px;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.subCon {
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+  background-color: white;
+}
+
+.logo {
+  height: 300px;
+  width: 300px;
+}
+
+.cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.cardsCenter {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+button {
+  height: 40px;
+  width: 120px;
+  border-radius: 5px;
+}
+
+.bat {
+  text-align: center;
+  margin: 20px;
+}
